@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://github.com/anycode-ade/anycode">
-      <img src="https://img.shields.io/badge/Building-Anycode-000000?style=for-the-badge&logo=code&logoColor=white" alt="Building Anycode" />
+      <img src="https://img.shields.io/badge/Building-Anycode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Building Anycode" />
     </a>
     <img src="https://img.shields.io/badge/with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="with TypeScript" />
     <img src="https://img.shields.io/badge/and-Rust-DE3A1C?style=for-the-badge&logo=rust&logoColor=white" alt="and Rust" />
