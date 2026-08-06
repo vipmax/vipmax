@@ -51,7 +51,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vipmax&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" height="175" alt="stats card" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vipmax&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="175" alt="languages card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vipmax&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,HTML" height="175" alt="languages card" />
 </div>
 
 <br>
