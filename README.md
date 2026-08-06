@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Max 👋 🦀</h1>
+  <h1 align="center">Hi there, I'm Max 👋</h1>
   <p align="center"><b>Fullstack & AI Developer</b></p>
 
   <p align="center">
