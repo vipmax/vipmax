@@ -4,10 +4,10 @@
 
   <p align="center">
     <a href="https://github.com/anycode-ade/anycode">
-      <img src="https://img.shields.io/badge/Building-Anycode%20IDE-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Anycode IDE" />
+      <img src="https://img.shields.io/badge/Building-Anycode-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Building Anycode" />
     </a>
-    <img src="https://img.shields.io/badge/Rust-DE3A1C?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/Performance-⚡%20Blazing%20Fast-FFD700?style=for-the-badge" alt="High Performance" />
+    <img src="https://img.shields.io/badge/with-TypeScript%20%26%20Rust-DE3A1C?style=for-the-badge&logo=rust&logoColor=white" alt="with TypeScript & Rust" />
+    <img src="https://img.shields.io/badge/⚡-Blazing%20Fast-FFD700?style=for-the-badge" alt="Blazing Fast" />
   </p>
 </div>
 
