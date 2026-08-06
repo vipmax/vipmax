@@ -40,7 +40,7 @@
   <br>
   <!-- Frameworks & Libs -->
   <a href="https://github.com/anycode-ade/anycode">
-    <img src="https://img.shields.io/badge/Anycode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anycode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
