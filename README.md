@@ -23,7 +23,6 @@
   - **Terminal & TUI Applications** — Console tools & terminal code editors built with Rust 🦀, including [redai](https://github.com/vipmax/redai) and [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor).
   - **Systems Engineering with Rust 🦀** — Async backend architecture (Tokio/Axum), concurrent services, and network protocols.
   - **AI & Dev Tooling** — Integrating LLMs & AI agents into modern developer workflows.
-- 🎯 **Passionate About:** Developer Experience (DX), clean architecture, and building fast tools for engineers.
 
 ---
 
