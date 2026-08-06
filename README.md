@@ -16,12 +16,12 @@
 
 ### 🚀 About Me
 
-- 💻 **Currently Building:** [Anycode](https://github.com/anycode-ade/anycode) — a high-performance web-based IDE built with **React**, **TypeScript**, and **Rust 🦀**.
+- 💻 **Currently Building:** [Anycode](https://github.com/anycode-ade/anycode) — a high-performance web-based IDE built with **React**, **TypeScript**, and **Rust**.
 - ⚡ **Core Values & Focus:**
   - **Performance, Speed & Efficiency** — Low latency, high execution speed, and efficient resource usage.
   - **Minimalist UI & UX** — Clean, distraction-free interfaces and focused user experience.
-  - **Terminal & TUI Applications** — Console tools & terminal code editors built with Rust 🦀, including [redai](https://github.com/vipmax/redai) and [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor).
-  - **Systems Engineering with Rust 🦀** — Async backend architecture (Tokio/Axum), concurrent services, and network protocols.
+  - **Terminal & TUI Applications** — Console tools & terminal code editors built with Rust, including [redai](https://github.com/vipmax/redai) and [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor).
+  - **Systems Engineering with Rust** — Async backend architecture (Tokio/Axum), concurrent services, and network protocols.
   - **AI & Dev Tooling** — Integrating LLMs & AI agents into modern developer workflows.
 
 ---
