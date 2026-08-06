@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:DE3A1C&height=180&section=header&text=Max%20%7C%20Fullstack%20%26%20AI%20Developer%20🦀&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" />
-
-  <br>
+  <h1 align="center">Hi there, I'm Max 👋 🦀</h1>
+  <p align="center"><b>Fullstack & AI Developer</b></p>
 
   <p align="center">
     <a href="https://github.com/anycode-ade/anycode">
