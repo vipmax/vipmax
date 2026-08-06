@@ -50,14 +50,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipmax&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" height="175" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipmax&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="175" alt="languages card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vipmax&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" height="175" alt="stats card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vipmax&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="175" alt="languages card" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipmax&theme=dracula&hide_border=true" alt="streak card" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipmax&theme=dracula&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
